@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: MyCopperViewer
+## Notes: Advanced money display
+## Author: Phonkovick
+## Version: 1.2
+
+MyCopperViewer.lua
