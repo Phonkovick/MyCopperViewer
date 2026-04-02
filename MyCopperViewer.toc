@@ -2,6 +2,6 @@
 ## Title: MyCopperViewer
 ## Notes: Advanced money display
 ## Author: Phonkovick
-## Version: 1.2
+## Version: 1.3
 
 MyCopperViewer.lua
